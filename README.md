@@ -12,3 +12,9 @@ logic.py - contaisn the flask program behind the entire process
 
 To run the program, clone the directory and follow instructions.py
 
+
+
+<img width="1440" alt="Screenshot 2024-07-13 at 6 54 32 AM" src="https://github.com/user-attachments/assets/591f9293-1340-4c1a-923b-0ba10fa801d0">
+
+
+<img width="1440" alt="Screenshot 2024-07-13 at 6 56 22 AM" src="https://github.com/user-attachments/assets/5eab82c6-afb6-4436-803c-999c41c9f8a3">
